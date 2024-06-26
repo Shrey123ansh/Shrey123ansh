@@ -21,10 +21,13 @@ I am an **Experienced** **_Blockchain_** **_Developer_** currently pursuing a Ba
 - **Frameworks**: Foundry, Hardhat, Thirdweb
 
 ### Decentralized Finance (DeFi)
-- **Applications**: Uniswap-v2 and v3, Aave, FlashLoan, Synthetic Staking, Compound, PancakeSwap, SushiSwap
+- **Applications**: Uniswap-v2 and v3,  MasterChef-V2, Aave, FlashLoan, Liquid Staking, Traditional Staking, Synthetic Staking,  Compound, PancakeSwap, SushiSwap
 
 ### Blockchain Diversity
-- **Blockchains**: Ethereum, Aptos, Polygon, Shardeum, Tezos
+- **Blockchains**: Ethereum, Aptos, Polygon, Shardeum, Tezos, Nordek, ZkFair, Binance
+
+### Devops
+- **Tools**:  Git & Github, Docker
 
 ## 🌱 Current Focus
 In addition to my expertise, I am actively engaged in enhancing the security and integrity of smart contracts through comprehensive audits. I bring a proven track record of innovation and a relentless commitment to staying at the forefront of emerging technologies.
