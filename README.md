@@ -35,13 +35,9 @@ I am an accomplished blockchain developer currently pursuing a Bachelor of Techn
 ## 🌱 Current Focus
 In addition to my expertise, I am actively engaged in enhancing the security and integrity of smart contracts through comprehensive audits. I bring a proven track record of innovation and a relentless commitment to staying at the forefront of emerging technologies.
 
-## 📈 GitHub Stats
-
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
-- Email: [Your Email]
+- Email: [Shreyansh Singhal](Shreyann56sh@gmail.com/)
 - LinkedIn: [Shreyansh Singhal](https://www.linkedin.com/in/shreyansh-singhal-296547226/)
 
 ## 🤝 Let's Connect
