@@ -8,7 +8,7 @@ Here's an updated version of your GitHub profile README:
 
 ## 🚀 About Me
 
-I am an accomplished blockchain developer currently in my third year pursuing a Bachelor of Technology in Electrical Engineering. My expertise lies in a spectrum of technologies across both web2 and web3 landscapes.
+I am an accomplished blockchain developer currently pursuing a Bachelor of Technology from NIT Warangal. My expertise lies in a spectrum of technologies across both web2 and web3 landscapes.
 
 ## 🛠️ Skills
 
@@ -35,20 +35,11 @@ In addition to my expertise, I am actively engaged in enhancing the security and
 
 ## 💡 Projects
 
-Here are some of the projects I have worked on:
-
-- [Project 1](link-to-project-1) - Brief description of project 1.
-- [Project 2](link-to-project-2) - Brief description of project 2.
-
 ## 📫 Contact Me
 
 - Email: [Your Email]
 - LinkedIn: [Shreyansh Singhal](https://www.linkedin.com/in/shreyansh-singhal-296547226/)
 
-## 📄 Certifications
-
-- [Certification 1]
-- [Certification 2]
 
 ## 🤝 Let's Connect
 
