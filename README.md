@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am an accomplished blockchain developer currently pursuing a Bachelor of Technology from NIT Warangal. My expertise lies in a spectrum of technologies across both web2 and web3 landscapes.
+I am an **Experienced** **Blockchain** **Developer** currently pursuing a Bachelor of Technology from **NIT Warangal**. My expertise lies in a spectrum of technologies across both **web2** and **web3** landscapes.
 
 ## 🛠️ Skills
 
