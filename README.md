@@ -31,7 +31,7 @@ In addition to my expertise, I am actively engaged in enhancing the security and
 
 ## 📫 Contact Me
 
-- Email: [Shreyansh Singhal](Shreyann56sh@gmail.com/)
+- Email: [Shreyansh Singhal](mailto:Shreyann56sh@gmail.com/)
 - LinkedIn: [Shreyansh Singhal](https://www.linkedin.com/in/shreyansh-singhal-296547226/)
 
 ## 🤝 Let's Connect
