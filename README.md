@@ -19,7 +19,7 @@ I am an **Experienced** **_Blockchain_** **_Developer_** currently pursuing a Ba
 
 
 ### Web2 Tools
-- **Technologies**: MERN stack, Next.js, TypeScript, REST APIs
+- **Technologies**: MERN stack, Next.js, TypeScript, REST APIs, Graphql
 
 ### Blockchain Expertise (Web3)
 - **Languages**: Solidity, Move Programming Language
