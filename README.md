@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyansh Singhal
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-singhal-296547226/)
-[![Portfolio]]([https://www.linkedin.com/in/shreyansh-singhal-296547226/](https://shreyansh-portfolio-topaz.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shreyansh-singhal-296547226/](https://shreyansh-portfolio-topaz.vercel.app/))
 
 ## 🚀 About Me
 
