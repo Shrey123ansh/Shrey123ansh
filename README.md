@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Shreyansh Singhal
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-singhal-296547226/)
-[![Portfolio](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/shreyansh-singhal-296547226/](https://shreyansh-portfolio-topaz.vercel.app/))
-
+Portfolio- https://shreyansh-portfolio-topaz.vercel.app/
 ## 🚀 About Me
 
 I am an **Experienced** **_Blockchain_** **_Developer_** currently pursuing a Bachelor of Technology from **_NIT Warangal_**. My expertise lies in a spectrum of technologies across both **_Web2_** and **_Web3_** landscapes.
